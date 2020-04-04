@@ -1,0 +1,41 @@
+body{
+	background-color: #e6759b;
+	text-align: center;
+	margin:0px;
+}
+
+header{
+	background-color:#e6759b;
+	height: 50px;
+	margin:10px 30px;
+	border-radius: 15px;
+	text-align: center;
+}
+h1{
+	font-size: 25px;
+	color:#ffffff;
+}
+#main{
+	background-color: #ffffff;
+	color: gray;
+	margin: 20px 30px;
+	padding-bottom: 20px;
+	border-radius: 15px;
+}
+h3{
+	padding-top:10px;
+}
+label{
+	font-size:20px;
+	padding-bottom: 10px;
+}
+hr{
+	border:0.5px dashed #e6759b;
+	width: 80%;
+}
+.result_a{
+	font-size:25px;
+}
+.result_b{
+	font-size:25px;
+}
